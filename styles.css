@@ -1,0 +1,69 @@
+.header,
+.hero,
+.footer {
+    background-color: #1f2937;
+}
+
+.left {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight: 700;
+    color: #f9faf8;
+}
+
+.right,
+.second-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.links {
+    font-size: 18px;
+}
+
+.sub-one,
+.action {
+    background-color: #3882f6;
+}
+
+.feel {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f2937;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.main-quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1f2937;
+}
+
+
+
+
+
+.pics,
+.welcome {
+    max-width: 300px;
+    max-height: 300px;
+
+}
