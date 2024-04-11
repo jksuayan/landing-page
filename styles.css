@@ -78,7 +78,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: left;
-    width: 500px;
+    width: 650px;
     gap: 10px;
 }
 
@@ -90,7 +90,7 @@ a {
 }
 
 .welcome {
-    width: 700px;
+    width: 600px;
     height: auto;
 }
 
@@ -199,12 +199,10 @@ button.sub-two {
 .encourage {
     font-size: 24px;
     font-weight: 700;
-
 }
 
 .more-enco {
     font-size: 18px;
-
 }
 
 .footer {
