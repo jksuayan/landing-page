@@ -176,3 +176,41 @@ button.sub-two {
     font-weight: 700;
 
 }
+
+.action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.blue {
+    border: none;
+    border-radius: 10px;
+    width: 1000px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 20px 150px;
+}
+
+.encourage {
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.more-enco {
+    font-size: 18px;
+
+}
+
+.footer {
+    height: 10vh;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
